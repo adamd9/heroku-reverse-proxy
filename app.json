@@ -14,6 +14,9 @@
 	"env": {
 		"UPSTREAM_SERVER": {
 			"description": "URL of upstream server to which all requests should be proxied"
+		},
+		"JS_SRC": {
+			"description": "URL of Javascript Resource to inject"
 		}
 	},
 	"stack": "cedar-14"
