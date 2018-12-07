@@ -19,5 +19,5 @@
 			"description": "URL of Javascript Resource to inject"
 		}
 	},
-	"stack": "cedar"
+	"stack": "cedar-14"
 }
